@@ -4,4 +4,13 @@ title: "PUBLICATIONS AND WORKSHOP PRESENTATION"
 permalink: /publications/
 author_profile: true
 ---
-TBA
+## Publications
+## Workshop Presentation
+
+1. **H. Nguyen** and **T.-H. Pham**,  
+   *“Bi-level optimization in cooperative bargaining framework for portfolio optimization: Optimal Asset VN30 Allocation”*,  
+   *21st Workshop on Optimization and Scientific Computing*, Institute of Mathematics, Vietnam Academy of Science and Technology (VAST), Hanoi, April 20–22, 2023.
+
+2. **H. Nguyen** and **H.-D. Luu**,  
+   *“Ergodicity economics: Cooperation game and finding the optimal strategy for rebalanced portfolio”*,  
+   *Research Conference of the Institute of Mathematics (VAST)*, Hanoi, November 18, 2022.
