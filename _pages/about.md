@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "ABOUT ME"
 author_profile: true
