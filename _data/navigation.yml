@@ -17,10 +17,10 @@ main:
   - title: "Education"
     url: /education/
     
-  - title: "HONORS AND AWARDS"
+  - title: "Honors and Awards"
     url: /portfolio/
         
-  - title: "EXTRA-CURRICULAR ACTIVITIES"
+  - title: "Extra-Curricular Activities"
     url: /year-archive/
     
   - title: "CV"
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "REFERENCES"
+  - title: "References"
     url: /references/
