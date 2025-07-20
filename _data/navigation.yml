@@ -11,16 +11,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Work Experiences"
+    url: /experiences/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Education"
+    url: /education/
     
-  - title: "Portfolio"
+  - title: "HONORS AND AWARDS"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "EXTRA-CURRICULAR ACTIVITIES"
     url: /year-archive/
     
   - title: "CV"
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "REFERENCES"
+    url: /references/
