@@ -12,7 +12,7 @@ redirect_from:
 
 <p>My full name is <strong>Nguyen Thi Xuan Hong</strong>, you can call me <strong>Xuan Hong</strong>.</p>
 
-<p>I am currently working as an <strong>Associate Management</strong>, considered a <strong>Key Talent</strong> at one of the largest joint-stock commercial banks in Vietnam – <strong>Techcombank</strong>.</p>
+<p>I am currently working as an <strong>Management Associate</strong>, considered a <strong>Key Talent</strong> at one of the largest joint-stock commercial banks in Vietnam – <strong>Techcombank</strong>.</p>
 
 <p>For more detail regarding this program: <a href="https://tuyendung.techcombankjobs.com/techdata" target="_blank">please click here</a> to have more insight.</p>
 
