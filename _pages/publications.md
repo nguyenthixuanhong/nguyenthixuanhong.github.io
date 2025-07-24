@@ -3,6 +3,8 @@ layout: single
 title: "PUBLICATIONS AND WORKSHOP PRESENTATION"
 permalink: /publications/
 author_profile: true
+redirect_from:
+   - /files/Reseach_at_VAST.pdf
 ---
 ## Publications
 ## Workshop Presentation
