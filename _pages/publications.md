@@ -12,5 +12,5 @@ author_profile: true
    *[21st Workshop on Optimization and Scientific Computing](https://imacs.hcmut.edu.vn/OptiSciCom23/contributions.php)*, Institute of Mathematics, Vietnam Academy of Science and Technology (VAST), Hanoi, April 20–22, 2023.
 
 2. **H. Nguyen** and **H.-D. Luu**,  
-   *“[Ergodicity economics: Cooperation game and finding the optimal strategy for rebalanced portfolio](({{ "/files/Research_at_VAST" | relative_url }}))”*,  
+   *“[Ergodicity economics: Cooperation game and finding the optimal strategy for rebalanced portfolio]({{ "/files/Research_at_VAST" | relative_url }})”*,  
    *Research Conference of the Institute of Mathematics (VAST)*, Hanoi, November 18, 2022.
