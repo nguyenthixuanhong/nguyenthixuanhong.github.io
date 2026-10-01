@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 redirect_from: 
-  - /files/CV_NguyenThiXuanHong.pdf
+  - /files/CV_NguyenThiXuanHong_StudentJob.pdf
 ---
 
 [//]: # ([Please click here to access my pdf resume.]&#40;{{ page.url }}files/CV_NguyenThiXuanHong.pdf&#41;)
