@@ -7,6 +7,12 @@ author_profile: true
 
 [//]: # (## References)
 
+### COO. John Nguyen (Duc-Hoang NGUYEN)
+**Affiliation:** Techcombank, Vietnam  
+**Email:** [john.nguyen@techcombank.com.vn](mailto:john.nguyen@techcombank.com.vn)
+
+---
+
 ### Dr. Hoang Duc LUU
 **Affiliation:** Max Planck Institute for Mathematics in the Sciences, Germany  
 **Email:** [duc.luu@mis.mpg.de](mailto:duc.luu@mis.mpg.de)
