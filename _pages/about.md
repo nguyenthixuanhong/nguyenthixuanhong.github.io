@@ -10,7 +10,6 @@ redirect_from:
 
 <div style="max-width: 800px; margin: 0 auto; text-align: justify;">
 
-## About Me
 
 I am **Nguyen Thi Xuan Hong**, currently pursuing an [**M2 in Optimization at Université Paris-Saclay**](https://www.universite-paris-saclay.fr/en/education/masters-degree/mathematics-and-applications/m2-optimization) in France, with a strong interest in **Operations Research (OR)** and its applications to real-world decision-making.
 
