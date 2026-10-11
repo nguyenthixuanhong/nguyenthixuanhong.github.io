@@ -27,14 +27,14 @@ author_profile: true
 **Office Tools:** Word, Excel, PowerPoint (advanced level)
 
 ### ENGLISH LANGUAGE PROFICIENCY
-- **IELTS Overall Band Score:** 6.0
-    - **Listening:** 5.5
-    - **Reading:** 6.0
+- **IELTS Overall Band Score:** 6.5
+    - **Listening:** 6.5
+    - **Reading:** 7.0
     - **Writing:** 6.0
-    - **Speaking:** 5.5
-- **Test Date:** 29/03/2025
-- **Candidate Number:** 532072
-- **TRF Number:** 24VN532072NGUT104A
+    - **Speaking:** 6.5
+- **Test Date:** 25/08/2026
+- **Candidate Number:** 529900
+- **TRF Number:** 26VN529900NGUT002A
   
 ### Soft Skills
 
