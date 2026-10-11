@@ -10,22 +10,18 @@ redirect_from:
 
 <div style="max-width: 800px; margin: 0 auto; text-align: justify;">
 
-<p>My full name is <strong>Nguyen Thi Xuan Hong</strong>, you can call me <strong>Xuan Hong</strong>.</p>
+## About Me
 
-<p>I am currently working as an <strong>Management Associate</strong>, considered a <strong>Key Talent</strong> at one of the largest joint-stock commercial banks in Vietnam – <strong>Techcombank</strong>.</p>
+I am **Nguyen Thi Xuan Hong**, currently pursuing an [**M2 in Optimization at Université Paris-Saclay**](https://www.universite-paris-saclay.fr/en/education/masters-degree/mathematics-and-applications/m2-optimization) in France, with a strong interest in **Operations Research (OR)** and its applications to real-world decision-making.
 
-<p>For more detail regarding this program: <a href="https://tuyendung.techcombankjobs.com/techdata" target="_blank">please click here</a> to have more insight.</p>
+My journey began with a degree in **Mathematics and Informatics at [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/)**, where I became fascinated by how mathematical models and algorithms can help solve complex problems involving limited resources, uncertainty, and competing objectives. My undergraduate research focused on **bilevel optimization and its applications to economics**, using MATLAB to study investment allocation in the Vietnamese stock market. I presented this work at the 21st Workshop on Optimization and Scientific Computing in 2023.
 
-<p>I surpassed over 2000 applicants to become one of the 14 talented candidates in the IT Division of Techcombank, rotating through various positions. In my first role as a <strong>Business Analyst</strong>, I participated in the <strong>Auto Earning</strong> project, which allowed customers' idle money to generate interest, leading Techcombank to the top position in <strong>CASA (Current Account and Savings Account)</strong> for the first time.</p>
+After graduation, I joined **Techcombank** as a Management Associate through the [**Techcombank Future Gen programme**](https://tuyendung.techcombankjobs.com/techdata), where I was selected as one of 14 key talents from more than 2,000 applicants. Working on banking technology and financial products helped me see how decisions involving capital allocation, customer behavior, and operational constraints shape real business outcomes. These experiences strengthened my conviction that **Operations Research can bridge mathematical theory and practical decision-making**.
 
-<p>This project was essentially an application of my previous research on <strong>asset allocation</strong>, aiming for high returns with low risk while accommodating the uncertainty of when customers would need their funds, ensuring no liquidity risk for the customers.</p>
+Now, at Paris-Saclay, I am building a stronger foundation in optimization while working towards my long-term goal: developing mathematical models and computational methods to address complex problems in finance, supply chains, and business operations. I am particularly interested in the intersection of **continuous and discrete optimization, mathematical modelling, and decision science**.
 
-<p>My major at <a href="https://hust.edu.vn/" target="_blank">Hanoi University of Science and Technology (HUST)</a> is <strong>Mathematics – Informatics</strong>. I have always been curious about <strong>Applied Mathematics</strong>, especially <strong>discrete and continuous Optimization</strong>.</p>
+Looking ahead, I aspire to pursue doctoral research in Operations Research and eventually bring the knowledge and research experience I gain in Europe back to Vietnam, contributing through research, teaching, and collaboration between academia and industry.
 
-<p>During my university years, I focused on researching mathematical problems applied to economics. My thesis was regarding <strong>bi-level optimization and its application in Economics</strong>. I deployed a <strong>MATLAB</strong> program to allocate investment assets among different stocks in the Vietnamese market.</p>
-
-<p>Furthermore, I achieved the highest results in the <strong>Applied Mathematics Committee</strong> and became the only student in my cohort that year to present at the <strong>21st Workshop on Optimization and Scientific Computing</strong> in 2023.</p>
-
-<p>Additionally, I had a two-month research internship at the <strong>Institute of Mathematics and Informatics, Vietnam Academy of Science and Technology (VAST)</strong> – the biggest governmental life science research institution in Vietnam. During those times, I worked on a collaborative problem involving multi-parties and different business growths, which led to significant results and was presented at the <strong>VAST annual conference</strong>.</p>
+I believe that mathematics is most powerful when it moves beyond theory to help people make better decisions.
 
 </div>
